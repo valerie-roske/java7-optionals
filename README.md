@@ -1,2 +1,4 @@
 # java7-optionals
-Optional Types in Java7
+========================
+
+An exercise in optional types in Java 7
